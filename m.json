@@ -153,11 +153,11 @@
 {"key":"csp_非凡","name":"🅱️┃非凡┃资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./libs/jar/HCCX.jar","ext":"./libs/hccx/非凡资源网.json"},
 {"key":"csp_量子","name":"🅱️┃量子┃资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./libs/jar/HCCX.jar","ext":"./libs/hccx/量子资源网.json"},
 
-{"key":"yinyue","name":"线路|音乐","type":4,"api":"https://catbox.n13.club/yyy.php"}, 
+{"key":"yinyue","name":"线路|音乐","type":4,"api":"https://catbox.n13.club/yyy.php"},
 {"key":"xuexi","name":"线路|学习","type":4,"api":"https://catbox.n13.club/t4.php?url=2"},
-{"key":"xyyy","name":"小姨音乐","type":4,"api":"https://catbox.n13.club/wy.php"},  
-{"key":"T4-duanju","name":"线路|短剧","type":4,"api":"https://catbox.n13.club/duanju.php","searchable": 1,"quickSearch":1,"filterable":1,"changeable":0,"ext": true},     
-{"key":"MV_vod","name":"明星mv","type":3,"api":"caiji.js","ext":"https://catbox.n13.club/wy.php"},  
+{"key":"xyyy","name":"小姨音乐","type":4,"api":"https://catbox.n13.club/wy.php"},
+{"key":"T4-duanju","name":"线路|短剧","type":4,"api":"https://catbox.n13.club/duanju.php","searchable": 1,"quickSearch":1,"filterable":1,"changeable":0,"ext": true},
+{"key":"MV_vod","name":"明星mv","type":3,"api":"caiji.js","ext":"https://catbox.n13.club/wy.php"},
 {"key":"T4-nangua","name":"南瓜电影","type":4,"api":"https://catbox.n13.club/nangua.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key":"T4-yinyuetai","name":"音悦台","type":4,"api":"https://catbox.n13.club/yyt.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": true},
 
