@@ -19,6 +19,16 @@
     {"key": "csp_XYQ素白白","name": "⛈┃素白白┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./libs/jar/XYQH.jar","ext": "./libs/xyq/素白白.json"},
     {"key": "csp_XYQ电影牛","name": "🍖┃电影牛┃影院","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./libs/jar/XYQH.jar","ext": "./libs/xyq/电影牛.json"},
 
+   {
+            "key": "Fangniu4k",
+            "name": "🇨🇳放牛┃TV┃App",
+            "type": 3,
+            "api": "csp_Fangniu4k",
+            "searchable": 1,
+            "jar": "./二小.jar",
+            "changeable": 1
+        },
+     
      {"key": "玩偶哥哥","name": "👽┃玩偶┃4K弹幕","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
     {"key": "YGP","name": "🚀┃叨观┃荐影","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0 },
     {"key": "酷看","name": "💡┃酷看┃App","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1},
